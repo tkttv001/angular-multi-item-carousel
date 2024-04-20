@@ -1,9 +1,9 @@
 /* eslint-disable */
 export default {
   displayName: 'angular-multi-item-carousel',
-  preset: '../../jest.preset.js',
+  preset: '../../../jest.preset.js',
   setupFilesAfterEnv: ['<rootDir>/src/test-setup.ts'],
-  coverageDirectory: '../../coverage/libs/angular-multi-item-carousel',
+  coverageDirectory: '../../../coverage/src/lib/angular-multi-item-carousel',
   transform: {
     '^.+\\.(ts|mjs|js|html)$': [
       'jest-preset-angular',

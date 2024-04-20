@@ -1,5 +1,5 @@
 {
-  "name": "@angular-multi-item-carousel",
+  "name": "@tkttv/angular-multi-item-carousel",
   "version": "0.0.1",
   "peerDependencies": {
     "@angular/common": "^17.3.0",

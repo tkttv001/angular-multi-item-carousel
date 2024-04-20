@@ -15,8 +15,8 @@
     "skipDefaultLibCheck": true,
     "baseUrl": ".",
     "paths": {
-      "@angular-multi-item-carousel": [
-        "libs/angular-multi-item-carousel/src/index.ts"
+      "@tkttv/angular-multi-item-carousel": [
+        "src/lib/angular-multi-item-carousel/src/index.ts"
       ]
     }
   },
